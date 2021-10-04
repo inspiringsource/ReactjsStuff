@@ -10,4 +10,4 @@ function logCitySkyline() {
 
 console.log(logCitySkyline())
 
-//Resource: www.codecademy.com/
+//Source: www.codecademy.com/
