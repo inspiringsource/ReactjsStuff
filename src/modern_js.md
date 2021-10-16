@@ -7,4 +7,4 @@ Don't worry if this is too much to take in at once. The MDN JavaScript Reference
 
 Also, when you feel unsure about what some newer syntax means, you can use the Babel REPL with the ES2015 preset to check what equivalent older syntax it compiles to.
 
-<script src="https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c.js"></script>
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c.js
