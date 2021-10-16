@@ -27,3 +27,4 @@ let favoritePhrase = 'Love That!';
 favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!");
 
 //Source: www.codecademy.com/
+//https://stackoverflow.com/a/6260002/11464527
